@@ -34,7 +34,7 @@ async function skenirajRacun() {
 skenirajRacun();
 ```
 ## Return primer
-```json
+```yaml
 Podaci: {
   success: true,
   items: [
