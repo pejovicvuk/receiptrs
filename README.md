@@ -1,4 +1,4 @@
-﻿# ReceiptRS - Biblioteka za skeniranje srpskih računa
+﻿# ReceiptRS - Biblioteka za skeniranje srpskih fiskalnih računa
 
 TypeScript/JavaScript biblioteka za skeniranje i obradu QR kodova sa srpskih fiskalnih računa.
 
