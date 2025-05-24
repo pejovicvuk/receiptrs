@@ -1,0 +1,46 @@
+{
+  "name": "receiptrs",
+  "version": "1.0.0",
+  "description": "TypeScript library for scanning Serbian fiscal receipts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "prepublishOnly": "npm run build",
+    "test": "jest"
+  },
+  "keywords": [
+    "serbia",
+    "receipt",
+    "fiscal",
+    "scanner",
+    "qr",
+    "typescript",
+    "purs"
+  ],
+  "author": "Vuk Pejovic <pejovicvuk@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pejovicvuk/receiptrs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pejovicvuk/receiptrs/issues"
+  },
+  "homepage": "https://github.com/pejovicvuk/receiptrs#readme",
+  "files": [
+    "dist/**/*",
+    "README.md",
+    "LICENSE"
+  ],
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@typescript-eslint/eslint-plugin": "^8.32.1",
+    "@typescript-eslint/parser": "^8.32.1",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
