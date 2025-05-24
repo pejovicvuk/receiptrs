@@ -10,6 +10,7 @@ ReceiptRS omogućava lako skeniranje i obradu fiskalnih računa izdatih u Srbiji
 
 ```bash
 npm install receiptrs
+yarn add receiptrs
 ```
 
 ## 💡 Korišćenje
