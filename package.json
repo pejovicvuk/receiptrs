@@ -25,6 +25,9 @@
     "type": "git",
     "url": "https://github.com/pejovicvuk/receiptrs.git"
   },
+  "bugs": {
+    "url": "https://github.com/pejovicvuk/receiptrs/issues"
+  },
   "homepage": "https://github.com/pejovicvuk/receiptrs#readme",
   "files": [
     "dist/**/*",
